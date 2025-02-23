@@ -5,7 +5,7 @@
 
 ## **2. Настройка WebDriver**
 
-1. Скачайте [ChromeDriver](https://sites.google.com/chromium.org/driver/) той же версии, что и ваш браузер 
+1. Скачайте [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) той же версии, что и ваш браузер 
 2. Поместите `chromedriver.exe` в папку `src/main/resources/` или явно укажите путь к драйверу в файле `src/main/resources/application.properties`
 
 ## **3. Установка зависимостей**
